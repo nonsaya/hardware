@@ -1,6 +1,6 @@
 ![OpenIPC logo](https://openipc.org/assets/openipc-logo-black.svg)
 
-## WIFI board for stacking on 20mm square hole flight controller for FPV
+# WIFI board for stacking on 20mm square hole flight controller for FPV
 ### *.f3z: EAGLE file for FUSUION360
 ### *.sch: Schematic file for EAGLE
 ### *.brd: Board file for EAGLE
